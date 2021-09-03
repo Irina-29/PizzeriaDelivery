@@ -1,5 +1,6 @@
 # PizzeriaDelivery :pizza:
 This is a console application where users can create an account and order pizza.
+
 ## How It Works
 * This console application uses a register and login system with database file to create a user account 
 * If the database text file doesn't exist, the function for creating an account will also create the file
@@ -14,3 +15,37 @@ This is a console application where users can create an account and order pizza.
 * After the user has removed a pizza from the cart with the "remove a pizza" option, the updated cart is shown and the user has the option to "continue shopping" or to "proceed to checkout"
 * At checkout, the cart and delivery details are shown
 * After the order has been confirmed, a message will appear and the console application will finish
+
+## Demo
+
+### Welcome
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/1.JPG">
+
+### Create Account
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/2.JPG">
+
+### Login
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/3.JPG">
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/4.JPG">
+
+### Main Menu
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/5.JPG">
+
+### Pizza Menu
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/6.JPG">
+
+### Cart
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/7.JPG">
+
+### Remove
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/8.JPG">
+
+### Remove (no pizza in cart)
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/9.JPG">
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/10.JPG">
+
+### Checkout
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/11.JPG">
+
+### Thank you!
+<img src="https://github.com/Irina-29/PizzeriaDelivery/blob/master/images/12.JPG">
